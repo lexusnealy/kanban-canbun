@@ -1,0 +1,27 @@
+As a member of an agile team, I want a Kanban board with a secure login page. I can securely access and manage my work tasks
+
+## Render Link to app:
+https://kanban-canbun.onrender.com 
+
+## How It's Made:
+Using React, Javescript, HTML and CSS inplementation in React. Using Render to deploy and VS Code to build
+
+Tech used: React, Node, Typescript, CSS, Love and affection
+
+Github: https://github.com/lexusnealy/kanban-canbun/tree/main
+
+Email: lexusn@gmail.com
+
+## Notes on code
+Starter code provided
+
+https://react.dev/reference/react/useState
+
+
+https://coding-boot-camp.github.io/full-stack/render/render-deployment-guide
+
+https://docs.render.com/configure-environment-variables
+
+https://www.Google.com
+
+https://coding-boot-camp.github.io/full-stack/render/render-deployment-guide
